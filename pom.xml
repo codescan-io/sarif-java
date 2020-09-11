@@ -9,7 +9,7 @@
   <version>1.0</version>
   <name>sarif-java</name>
   <description>Library provides POJO classes used to build SARIF model.</description>
-  <url>https://github.com/VillageChief/sarif-java</url>
+  <url>https://github.com/codescan-io/sarif-java</url>
 
   <properties>
     <java.version>1.8</java.version>
@@ -32,9 +32,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/VillageChief/sarif-java.git</connection>
-    <developerConnection>scm:git:ssh://github.com:VillageChief/sarif-java.git</developerConnection>
-    <url>https://github.com/VillageChief/sarif-java/tree/master</url>
+    <connection>scm:git:git://github.com/codescan-io/sarif-java.git</connection>
+    <developerConnection>scm:git:ssh://github.com:codescan-io/sarif-java.git</developerConnection>
+    <url>https://github.com/codescan-io/sarif-java/tree/master</url>
   </scm>
 
   <dependencies>
